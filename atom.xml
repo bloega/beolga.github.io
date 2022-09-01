@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Beolga博客</title>
+  <icon>https://www.gravatar.com/avatar/b5320bc1f934c2e0901e72983c3fb225</icon>
+  <subtitle>千里之行,始于足下</subtitle>
+  <link href="https://anzhiy.cn/atom.xml" rel="self"/>
   
-  
-  <link href="http://beolga.github.io/beolga.github.io/atom.xml" rel="self"/>
-  
-  <link href="http://beolga.github.io/beolga.github.io/"/>
+  <link href="https://anzhiy.cn/"/>
   <updated>2022-08-31T23:48:56.557Z</updated>
-  <id>http://beolga.github.io/beolga.github.io/</id>
+  <id>https://anzhiy.cn/</id>
   
   <author>
-    <name>John Doe</name>
-    
+    <name>Beolga</name>
+    <email>1586965771@qq.com</email>
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://beolga.github.io/beolga.github.io/2022/09/01/hello-world/"/>
-    <id>http://beolga.github.io/beolga.github.io/2022/09/01/hello-world/</id>
+    <link href="https://anzhiy.cn/posts/undefined.html"/>
+    <id>https://anzhiy.cn/posts/undefined.html</id>
     <published>2022-08-31T23:49:20.139Z</published>
     <updated>2022-08-31T23:48:56.557Z</updated>
     
