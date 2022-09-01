@@ -1,0 +1,9 @@
+#web_bg {
+    /* 背景图像的地址（url括号里）  */
+    background: url(https://cdn2.zzzmh.cn/wallpaper/origin/bbc58c3d998d4f389fdae649334873f7.jpg/fhd?auth_key=1663171200-eff484e386d9f0804ca5800cc543c463-0-48e008fd8046d52e389b2f5a7e8f204e);
+    /* 背景图像不重复 */
+    background-repeat: no-repeat;
+    /* 背景图像大小 */
+    background-size: cover;
+  }
+  
