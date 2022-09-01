@@ -3,11 +3,11 @@
   <title>Beolga博客</title>
   <icon>https://www.gravatar.com/avatar/b5320bc1f934c2e0901e72983c3fb225</icon>
   <subtitle>千里之行,始于足下</subtitle>
-  <link href="https://anzhiy.cn/atom.xml" rel="self"/>
+  <link href="https://bloega.github.io/beolga.github.io/atom.xml" rel="self"/>
   
-  <link href="https://anzhiy.cn/"/>
+  <link href="https://bloega.github.io/beolga.github.io/"/>
   <updated>2022-08-31T23:48:56.557Z</updated>
-  <id>https://anzhiy.cn/</id>
+  <id>https://bloega.github.io/beolga.github.io/</id>
   
   <author>
     <name>Beolga</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://anzhiy.cn/posts/undefined.html"/>
-    <id>https://anzhiy.cn/posts/undefined.html</id>
+    <link href="https://bloega.github.io/beolga.github.io/posts/undefined.html"/>
+    <id>https://bloega.github.io/beolga.github.io/posts/undefined.html</id>
     <published>2022-08-31T23:49:20.139Z</published>
     <updated>2022-08-31T23:48:56.557Z</updated>
     
